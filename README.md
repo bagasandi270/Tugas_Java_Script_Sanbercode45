@@ -29,4 +29,4 @@ node soal1.js
 node soal2.js
 ```
 
-Link recorded running program :
+Link record running program : https://drive.google.com/file/d/1EJ8_3NmhK00eRYydOrnwXDnwwd9cqDvf/view?usp=sharing
