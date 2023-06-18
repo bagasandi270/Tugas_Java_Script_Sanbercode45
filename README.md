@@ -21,9 +21,9 @@ npm install prompt-sync
 
 How to run
 
-```
+
 node soal1.js
-```
+
 
 ```
 node soal2.js
