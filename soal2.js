@@ -10,7 +10,7 @@ var productBin = {
         "productCode": "FBR00040101",
         "quantity": 76,
         "createdTime": "2021-12-21T13:54:48Z",
-      },
+      }
       {
         "id": 100000057466,
         "storageId": 10000002181,
